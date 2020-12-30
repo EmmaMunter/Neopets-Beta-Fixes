@@ -1,6 +1,8 @@
 @-moz-document domain("neopets.com") {
 /* ==UserStyle==
 @name        Beta Fix - Always show sidebar
+@namespace   NeopetsBetaFixes
+@version     1
 ==/UserStyle== */
 
 #navprofiledropdown__2020 {
