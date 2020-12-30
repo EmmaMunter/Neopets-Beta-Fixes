@@ -1,4 +1,8 @@
 @-moz-document domain("neopets.com") {
+/* ==UserStyle==
+@name        Beta Fix - Always show sidebar
+==/UserStyle== */
+
 #navprofiledropdown__2020 {
     display: block !important;
 }
